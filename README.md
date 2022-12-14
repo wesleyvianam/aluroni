@@ -1,5 +1,5 @@
-# Aluroni 
-projeto portfólio realizado em treinamento Alura
+# Restaurante Aluroni 
+projeto portfólio realizado em treinamento Alura.
 
 ## Tecnologias utilizadas
 * React - 17.0.2
